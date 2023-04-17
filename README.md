@@ -1,2 +1,2 @@
-# wdesigner.co.github.io
+# wdesigner.github.io
 Repositorio de mi página web personal
